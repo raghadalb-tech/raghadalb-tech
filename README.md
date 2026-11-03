@@ -76,9 +76,10 @@ I care about two things: **access control that holds up under real attacks**, an
 
 ### Education
 
-**B.Sc. Information Technology** — Princess Nourah bint Abdulrahman University, 2026
-Microsoft Certified: Azure AI Fundamentals · Cloud Solutions Engineering (Tuwaiq Academy)
 
+- **B.Sc. Information Technology** — Princess Nourah bint Abdulrahman University, 2026
+- Microsoft Certified: Azure AI Fundamentals
+- Cloud Solutions Engineering — Tuwaiq Academy
 ---
 
 <p align="center">
