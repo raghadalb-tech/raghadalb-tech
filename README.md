@@ -12,7 +12,7 @@
 
 ### About me
 
-I own a **production task-management platform** used daily across my company — its architecture, permissions, security and releases — and I operate the **production server** that hosts the company's internal systems.
+I'm the **technical owner** of my company's **production task-management platform** — I lead its architecture, permissions, security and releases — and I operate the **production server** that hosts the company's internal systems.
 
 I care about two things: **access control that holds up under real attacks**, and **releases that never surprise anyone**.
 
