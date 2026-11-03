@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Raghad Al-Bishri — Full-Stack Engineer · Security &amp; DevOps">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111B2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D49A5C"/>
+      <stop offset="1" stop-color="#F2C894"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1E2A40" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.3" r="0.6">
+      <stop offset="0" stop-color="#D49A5C" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#D49A5C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)" opacity="0.55"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+
+  <!-- left accent bar -->
+  <rect x="72" y="78" width="6" height="144" rx="3" fill="url(#accent)"/>
+
+  <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+    <text x="104" y="128" font-size="52" font-weight="700" fill="#F5F7FA" letter-spacing="-0.5">Raghad Al-Bishri</text>
+    <text x="106" y="172" font-size="24" font-weight="600" fill="url(#accent)">Full-Stack Engineer · Security &amp; DevOps</text>
+    <text x="106" y="212" font-size="18" fill="#9AA7BD">I build secure systems and keep them running in production.</text>
+  </g>
+
+  <!-- terminal card -->
+  <g transform="translate(780 70)">
+    <rect width="340" height="160" rx="12" fill="#0A1018" stroke="#25324A"/>
+    <circle cx="22" cy="20" r="5" fill="#FF5F57"/>
+    <circle cx="40" cy="20" r="5" fill="#FEBC2E"/>
+    <circle cx="58" cy="20" r="5" fill="#28C840"/>
+    <g font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14">
+      <text x="20" y="58" fill="#6B7A93">$ <tspan fill="#E6EDF3">deploy --verify</tspan></text>
+      <text x="20" y="84" fill="#28C840">✓ <tspan fill="#C9D1D9">backup verified</tspan></text>
+      <text x="20" y="106" fill="#28C840">✓ <tspan fill="#C9D1D9">migrations applied</tspan></text>
+      <text x="20" y="128" fill="#28C840">✓ <tspan fill="#C9D1D9">2,600+ tests passed</tspan></text>
+      <text x="20" y="150" fill="#F2C894">→ <tspan fill="#C9D1D9">live, 0 downtime</tspan></text>
+    </g>
+  </g>
+
+  <text x="106" y="262" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" fill="#6B7A93">Riyadh, Saudi Arabia</text>
+</svg>
